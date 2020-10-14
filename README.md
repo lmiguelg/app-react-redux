@@ -1,5 +1,5 @@
 ## React Course
 
-Tech: 
--React 
--Redux: state management
+<ul><b>Tech:</b>
+<li>React</li> 
+<li>Redux: state management</li></ul> 
